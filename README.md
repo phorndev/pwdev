@@ -1,8 +1,6 @@
 # 💫 About Me:
 Hello I'm Motivated and passionate aspiring Backend Developer with knowledge of Node.js, Express.js, and database management, seeking a Backend Developer Internship to apply my skills in real-world projects, gain industry experience, and grow as a professional software developer.
 
-<h1 align="center">Hey 👋What's Up?</h1>
-
 ###
 
 <div align="center">
