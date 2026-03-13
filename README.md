@@ -1,1 +1,4 @@
 # pwdev
+
+
+Motivated and passionate aspiring Backend Developer with knowledge of Node.js, Express.js, and database management, seeking a Backend Developer Internship to apply my skills in real-world projects, gain industry experience, and grow as a professional software developer.
